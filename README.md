@@ -150,6 +150,5 @@ Services: Amazon S3 (static website hosting), Amazon API Gateway (REST), AWS Lam
 
 Libraries and patterns: aws-xray-sdk (subsegments, annotations, metadata), Python logging with structured JSON output, boto3 CloudWatch put_metric_data
 
-*Built and measured by Anu Agarwal — [linkedin.com/in/agarwalanu](https://www.linkedin.com/in/agarwalanu)*
 
 <img width="732" height="56" alt="image" src="https://github.com/user-attachments/assets/6d6d2775-4fcf-45af-a872-aa3b19b7db72" />
